@@ -19,7 +19,7 @@ input[type="text"] {
 /* BLOCKS */
 
 .wrap {
-	min-width: 600px;
+	min-width: 400px;
 	max-width: 800px;
 	width: 80%;
 	margin: auto;
